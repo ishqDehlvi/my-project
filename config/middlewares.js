@@ -19,7 +19,7 @@ module.exports = [
             "https:",
             "http:",
             "http://localhost:1337",
-            "https://f8c1-119-42-58-65.ngrok-free.app/",
+            "http://3.209.214.84/",
             "https://www.fountaininstitute.in/",
           ],
           "style-src": ["'self'", "'unsafe-inline'", "https:"],
