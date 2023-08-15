@@ -19,7 +19,7 @@ module.exports = [
             "https:",
             "http:",
             "http://localhost:1337",
-            "http://3.209.214.84:1337",
+            "https://3.209.214.84/",
             "https://www.fountaininstitute.in/",
           ],
           "style-src": ["'self'", "'unsafe-inline'", "https:"],
