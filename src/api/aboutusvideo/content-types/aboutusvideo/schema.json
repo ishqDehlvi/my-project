@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "aboutusvideos",
+  "info": {
+    "singularName": "aboutusvideo",
+    "pluralName": "aboutusvideos",
+    "displayName": "aboutusvideo",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "videothumbnail": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "videourl": {
+      "type": "string"
+    }
+  }
+}
